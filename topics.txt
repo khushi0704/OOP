@@ -1,0 +1,20 @@
+class 
+objects
+empty class
+access modifiers : public protected private
+getters & setters
+data members & functions
+static vs dynamic allocation of objects
+constructor 
+default constructor
+parameterized constructor
+this keyword
+copy constructor
+shallow vs deep copyassignment operator
+destructor
+static keyword
+static functions
+4 pillars : Encapsultion
+Inheritance
+Polymorphism
+Abstraction
